@@ -1,1 +1,1 @@
-# Programming-on-C 1-2 curse
+# Programming-on-C 1 curse
